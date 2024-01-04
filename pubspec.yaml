@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   html_unescape: ^2.0.0
-  http: ^0.13.4
+  http: ^1.1.2
 
 platforms:
   android:
